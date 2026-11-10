@@ -25,7 +25,7 @@ I'm a Computer Science graduate from the University of Oklahoma (May 2026). I'm 
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,postgres,supabase,githubactions,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,react,nextjs,fastapi,postgres,azure,supabase,githubactions,git&theme=light" />
 </p>
 
 ---
@@ -35,6 +35,7 @@ I'm a Computer Science graduate from the University of Oklahoma (May 2026). I'm 
 | Project | Description | Tech |
 |---|---|---|
 | [**Oklahoma Legislative Vote Tracker**](https://github.com/777natalie/ok-legislative-tracker) | Daily pipeline that loads every Oklahoma bill, roll-call vote and legislator from the LegiScan API into PostgreSQL, with dbt tests and a [public dashboard](https://ok-legislative-tracker.streamlit.app) showing how often legislators vote with their party. | Python, PostgreSQL, dbt, GitHub Actions, Streamlit |
+| [**National Park Service Database**](https://github.com/777natalie/national-park-database) | Designed an 18-table relational database from an ER model and built a Java app with 17 operations, including joins, aggregate reports and subqueries, on Azure SQL. | SQL, Java, JDBC, Azure SQL |
 | **EMS Transcript Grading** · Norman Police Department | Senior capstone. Grades 911 dispatcher transcripts against EMS protocols using a rule-based engine plus a local LLM, all on-premise so no patient data leaves the machine. | React, TypeScript, FastAPI, PostgreSQL, Ollama, FAISS |
 | **P2P Secure Messenger** | End-to-end encrypted peer-to-peer messaging app built from scratch with AES-256, PBKDF2 and Diffie-Hellman key exchange. | Python, sockets |
 | **Reinforcement Learning Agents** | Value iteration and Q-learning implemented from scratch for GridWorld, a simulated robot and Pacman. | Python |
